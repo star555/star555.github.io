@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        p
+        #ice cream {color:yellow;}
+        p
+        .scotts{color:green;}
+        
+        
+        
+        </style>
+    </head>
+    <body>
+     
+        <h1>Travel to<em> Loch Lomond</em></h1>
+       <img src="https://www.kasandbox.org/programming-images/space/background.png">
+       <h2>The heart of Scotland</h2>
+       <p class="scotts">This is one of Scotlands beautiful nature parks, which has so much to do for the elders and youngsters, a perfect break for all whether its for a family, couple or a group. Fantastic views of the lake in <em>luss</em> and the chance to cruise the whole lake surrounding <em>Loch Lomond.</em> </p>
+       <h3>Places to visit:<br>Luss<br>Pier<br>Loch aray<br></h3>
+       <img src="https://www.kasandbox.org/programming-images/cute/Rock.png">
+       
+       <h3>Things to go:<br>Boat trip<br>Hiking<br>Cycling</h3>
+       <img src="https://www.kasandbox.org/programming-images/space/rocketship.png">
+       <p id="ice cream">There are a range of beautiful places to eat from and lovely ice cream parlours. </p>
+       
+       
+       
+      
+    </body>
+</html>
