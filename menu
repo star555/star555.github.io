@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Takeaway Menu</title>
+        <style>
+        {backround-color:blue;}
+       
+        
+        
+        
+        </style>
+        <h1><em>Spice Hut</em>
+        <p>All our food is freshly prepared on the day, choose from many different flavours..</p>
+        
+        <h2>Pizza</h2>
+        <p>cheese and tomatoe 2.99<br>vegeterian 2.99</br><br>meat 3.99</br><brchicken 3.99</br>
+        
+    </head>
